@@ -6,7 +6,7 @@ class PrimeNo
 	int temp;
 	boolean isPrime=true;
 	Scanner scan= new Scanner(System.in);
-	System.out.println("Enter any number:");
+	System.out.println("please insert any number:");
 	//capture the input in an integer
 	int num=scan.nextInt();
         scan.close();
